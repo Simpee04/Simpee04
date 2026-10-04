@@ -1,121 +1,232 @@
+<!-- ===================== HEADER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1D2671&height=200&section=header&text=Simpee%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Simpee Yadav</h1>
 
-<h3 align="center">
-Final-year BCA Student @ Techno India University, Kolkata | Learning AWS, Cloud Computing, Python & Linux | Aspiring Cloud/DevOps Engineer 🚀
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Final-Year+BCA+Student+%40+Techno+India+University;Learning+AWS+%26+Cloud+Computing;Exploring+Python+%26+Linux;Building+Cloud+Projects;Aspiring+Cloud+%2F+DevOps+Engineer+🚀" alt="Typing SVG" />
+</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=simpee04&label=Profile%20views&color=0e75b6&style=flat" alt="simpee04" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=simpee04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-<h3 align="left">👩‍💻 About Me:</h3>
+## 👨‍💻 About Me
 
-* 🎓 Final-year **BCA student** at **Techno India University, Kolkata**
-* ☁️ Currently learning **Cloud Computing and AWS**
-* 🛠️ Exploring AWS services and building **hands-on cloud projects**
-* 🐍 Learning **Python** for automation and problem solving
-* 🐧 Practicing **Linux** and command-line fundamentals
-* 🚀 Interested in **Cloud, DevOps, Infrastructure & Automation**
-* 📚 Continuously improving my technical and problem-solving skills
+🎓 I'm a **4th-year BCA student** at **Techno India University, Kolkata**, currently building my foundation in **Cloud Computing, AWS, Python, Linux and DevOps**.
 
----
+☁️ I'm interested in understanding how modern applications are deployed, managed and scaled using cloud technologies.
 
-<h3 align="left">☁️ AWS & Cloud Learning:</h3>
+🚀 Currently, I'm focused on:
 
-* AWS EC2
-* AWS S3
-* AWS IAM
-* AWS VPC
-* AWS CloudWatch
-* AWS Lambda
-* AWS RDS
-* AWS Route 53
-* Cloud Computing Fundamentals
-* Networking & Security Basics
+* Learning **AWS core services**
+* Building hands-on **cloud projects**
+* Practicing **Linux & networking fundamentals**
+* Learning **Python automation**
+* Using **Git & GitHub** for version control
+* Exploring **DevOps and cloud infrastructure**
+* Improving my problem-solving and programming skills
+
+> 💡 **My goal:** Learn by building real projects and gradually grow into a Cloud/DevOps Engineer.
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+## ☁️ AWS & Cloud Journey
 
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-Learning-orange?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-Learning-orange?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAM-Learning-orange?style=for-the-badge&logo=amazoniam&logoColor=white"/>
 </p>
 
----
-
-<h3 align="left">📚 Academic Subjects:</h3>
-
-* 💻 Data Structures & Algorithms
-* 🗄️ Database Management Systems (DBMS)
-* 🌐 Computer Networks
-* 🖥️ Operating Systems
-* 🔐 Cyber Security Fundamentals
-* 🧩 Object-Oriented Programming
-* 🐍 Python Programming
-* ☕ Java Programming
-* 🌐 Web Development
-* ☁️ Cloud Computing
-* 🏗️ Software Engineering
-* 📊 Computer Organization & Architecture
-
----
-
-<h3 align="left">🚀 Projects:</h3>
-
-* ☁️ **AWS Cloud Projects** — Hands-on projects using AWS core services
-* 🐍 **Python Automation Projects** — Small scripts and automation tools
-* 🐧 **Linux Practice Projects** — Linux commands, scripting and system administration basics
-* 🌐 **Cloud-Based Applications** — Deploying and experimenting with applications on AWS
-
----
-
-<h3 align="left">🌱 Currently Learning:</h3>
+### Currently exploring:
 
 ```text
-AWS → Cloud Computing → Linux → Python → Git/GitHub → Networking → DevOps
+AWS
+├── EC2
+├── S3
+├── IAM
+├── VPC
+├── CloudWatch
+├── Lambda
+├── RDS
+└── Route 53
 ```
 
-I'm focused on building projects rather than only learning theory and gradually developing practical **Cloud & DevOps** skills.
+I'm also learning the fundamentals behind:
+
+**Cloud Infrastructure • Networking • Security • Scalability • Monitoring • Automation**
 
 ---
 
-<h3 align="left">📫 Connect with me:</h3>
+## 🛠️ Technologies & Tools
 
-<p align="left">
-<a href="https://linkedin.com/in/simpee-yadav-88a194441" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+### ☁️ Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 💻 Programming & Scripting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+</p>
+
+### 🐧 DevOps & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,bash,vscode" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 🚀 Projects
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simpee04&show_icons=true&locale=en&layout=compact" alt="simpee04" />
+### ☁️ AWS Cloud Projects
+
+Hands-on projects using AWS services to understand:
+
+* EC2 deployment
+* S3 storage
+* IAM permissions
+* VPC networking
+* CloudWatch monitoring
+* Basic cloud security
+* Hosting applications on AWS
+
+### 🐍 Python Automation
+
+Small Python projects and scripts focused on:
+
+* Automation
+* File handling
+* System utilities
+* API interaction
+* Problem solving
+
+### 🐧 Linux Practice
+
+Learning and practicing:
+
+* Linux commands
+* File permissions
+* Processes
+* Networking commands
+* Shell scripting
+* System administration basics
+
+> 🚧 More cloud and DevOps projects are currently in progress.
+
+---
+
+## 📚 BCA Subjects
+
+My academic subjects are helping me build a strong foundation in computer science.
+
+| Subject                         | What I'm Learning                      |
+| ------------------------------- | -------------------------------------- |
+| 💻 Data Structures & Algorithms | Problem solving & efficient algorithms |
+| 🗄️ DBMS                        | Databases, SQL & data management       |
+| 🌐 Computer Networks            | Networking, protocols & communication  |
+| 🖥️ Operating Systems           | Processes, memory & system concepts    |
+| 🐍 Python Programming           | Programming & automation               |
+| ☕ Java Programming              | OOP & application development          |
+| 🔐 Cyber Security               | Security fundamentals                  |
+| ☁️ Cloud Computing              | Cloud architecture & services          |
+| 🌐 Web Development              | Frontend & backend fundamentals        |
+| 🏗️ Software Engineering        | SDLC & software development practices  |
+| 💾 Computer Organization        | Hardware & system architecture         |
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+
+```text
+☁️ AWS
+     ↓
+🐧 Linux
+     ↓
+🌐 Networking
+     ↓
+🐍 Python
+     ↓
+🔧 Git & GitHub
+     ↓
+🐳 Docker
+     ↓
+⚙️ DevOps
+```
+
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=simpee04&show_icons=true&locale=en" alt="simpee04" />
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simpee04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpee04&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<h3 align="center">🚀 Learning. Building. Improving.</h3>
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=simpee04&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/simpee-yadav-88a194441">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/simpee04">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💭 My Learning Philosophy
+
+<p align="center">
+  <i>"Learn the fundamentals. Build projects. Break things. Fix them. Repeat."</i>
+</p>
+
+<p align="center">
+  🚀 <b>Learning → Building → Automating → Improving</b> 🚀
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:36BCF7&height=120&section=footer"/>
+</p>
