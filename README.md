@@ -377,9 +377,13 @@ Linux
 
 ---
 
- # 📄 Resume
+# 📄 Resume
 
-<p align="center"><a href="./Simpee.pdf"><strong>View / Download my resume (PDF)</strong></a></p>
+<p align="center">
+  <a href="./Simpee.pdf"><strong>Download resume (PDF)</strong></a>
+  &nbsp; • &nbsp;
+  <a href="./resume/README.md"><strong>Read resume in Markdown</strong></a>
+</p>
 
 ---
 
