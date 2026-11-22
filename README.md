@@ -48,6 +48,8 @@
   &nbsp; • &nbsp;
   <a href="#-projects">PROJECTS</a>
   &nbsp; • &nbsp;
+  <a href="#-resume">RESUME</a>
+  &nbsp; • &nbsp;
   <a href="#-education">EDUCATION</a>
   &nbsp; • &nbsp;
   <a href="#-connect-with-me">CONTACT</a>
@@ -372,6 +374,12 @@ Linux
     alt="Contribution Snake"
   />
 </p>
+
+---
+
+ # 📄 Resume
+
+<p align="center"><a href="./Simpee.pdf"><strong>View / Download my resume (PDF)</strong></a></p>
 
 ---
 
