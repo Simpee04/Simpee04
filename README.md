@@ -380,9 +380,9 @@ Linux
 # 📄 Resume
 
 <p align="center">
-  <a href="./Simpee.pdf"><strong>Download resume (PDF)</strong></a>
+  <a href="https://github.com/Simpee04/resume/blob/main/Simpee.pdf?raw=1"><strong>Download resume (PDF)</strong></a>
   &nbsp; • &nbsp;
-  <a href="./resume/README.md"><strong>Read resume in Markdown</strong></a>
+  <a href="https://github.com/Simpee04/resume#readme"><strong>Read resume in Markdown</strong></a>
 </p>
 
 ---
